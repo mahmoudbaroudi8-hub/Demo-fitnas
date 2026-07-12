@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Cairo", "Tajawal", system-ui, -apple-system, sans-serif;
+  --font-display: "Cairo", "Tajawal", system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+  }
+}

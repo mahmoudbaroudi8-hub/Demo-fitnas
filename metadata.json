@@ -1,0 +1,8 @@
+{
+  "name": "Demo Fitness Pro",
+  "description": "Track workouts, calories, and progress with personalized training plans, activity insights, and community leaderboards to achieve your goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
